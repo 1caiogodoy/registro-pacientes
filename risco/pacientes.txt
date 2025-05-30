@@ -1,0 +1,11 @@
+Lista:
+
+Paciente 1:
+Nome: Caio
+email: caio@gmail
+CPF: 89189189112
+RG: 9876543
+Telefone: 999999999
+Idade:105
+
+        
